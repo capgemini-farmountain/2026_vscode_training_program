@@ -1,0 +1,52 @@
+site_name: AI Productivity Engineering with VS Code Copilot
+site_url: https://capgemini-farmountain.github.io/2026_vscode_training_program
+repo_url: https://github.com/capgemini-farmountain/2026_vscode_training_program
+repo_name: capgemini-farmountain/2026_vscode_training_program
+docs_dir: .
+
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: blue
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Learning Paths:
+    - Copilot Essentials (Path 1): paths/essentials.md
+    - Developer AI Engineering (Path 2): paths/developer.md
+    - Cowork & Automation (Path 3): paths/cowork.md
+    - AI Engineering Complete (Path 4): paths/complete.md
+  - Track 1 — AI Programming:
+    - M0 Foundation: curriculum/m0-foundation/README.md
+    - M1 Prompt & Context: curriculum/m1-prompt-context/README.md
+    - M2 Configuration Layer: curriculum/m2-configuration/README.md
+    - M3 Harness & Loop: curriculum/m3-harness-loop/README.md
+    - M4 Plugin Ecosystem: curriculum/m4-plugin-ecosystem/README.md
+    - M5 Capstone: curriculum/m5-capstone/README.md
+  - Track 2 — Cowork & Automation:
+    - C0 Cowork Concepts: curriculum/c0-cowork-concepts/README.md
+    - C1 Research Automation: curriculum/c1-research-automation/README.md
+    - C2 Office Automation: curriculum/c2-office-automation/README.md
+    - C3 Marketing & Content: curriculum/c3-marketing-content/README.md
+    - C4 Cowork Harness: curriculum/c4-cowork-harness/README.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - attr_list
