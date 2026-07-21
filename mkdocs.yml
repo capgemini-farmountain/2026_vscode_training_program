@@ -24,18 +24,62 @@ nav:
     - Cowork & Automation (Path 3): paths/cowork.md
     - AI Engineering Complete (Path 4): paths/complete.md
   - Track 1 — AI Programming:
-    - M0 Foundation: curriculum/m0-foundation/README.md
-    - M1 Prompt & Context: curriculum/m1-prompt-context/README.md
-    - M2 Configuration Layer: curriculum/m2-configuration/README.md
-    - M3 Harness & Loop: curriculum/m3-harness-loop/README.md
-    - M4 Plugin Ecosystem: curriculum/m4-plugin-ecosystem/README.md
-    - M5 Capstone: curriculum/m5-capstone/README.md
+    - M0 Foundation:
+      - Overview: curriculum/m0-foundation/README.md
+      - Lab — The Credit Experiment: curriculum/m0-foundation/lab.md
+      - Quiz: curriculum/m0-foundation/quiz.md
+      - Reflection: curriculum/m0-foundation/reflection.md
+    - M1 Prompt & Context:
+      - Overview: curriculum/m1-prompt-context/README.md
+      - Lab: curriculum/m1-prompt-context/lab.md
+      - Quiz: curriculum/m1-prompt-context/quiz.md
+      - Reflection: curriculum/m1-prompt-context/reflection.md
+    - M2 Configuration Layer:
+      - Overview: curriculum/m2-configuration/README.md
+      - Lab: curriculum/m2-configuration/lab.md
+      - Quiz: curriculum/m2-configuration/quiz.md
+      - Reflection: curriculum/m2-configuration/reflection.md
+    - M3 Harness & Loop:
+      - Overview: curriculum/m3-harness-loop/README.md
+      - Lab: curriculum/m3-harness-loop/lab.md
+      - Quiz: curriculum/m3-harness-loop/quiz.md
+      - Reflection: curriculum/m3-harness-loop/reflection.md
+    - M4 Plugin Ecosystem:
+      - Overview: curriculum/m4-plugin-ecosystem/README.md
+      - Lab: curriculum/m4-plugin-ecosystem/lab.md
+      - Quiz: curriculum/m4-plugin-ecosystem/quiz.md
+      - Reflection: curriculum/m4-plugin-ecosystem/reflection.md
+    - M5 Capstone:
+      - Overview: curriculum/m5-capstone/README.md
+      - Lab: curriculum/m5-capstone/lab.md
+      - Quiz: curriculum/m5-capstone/quiz.md
+      - Reflection: curriculum/m5-capstone/reflection.md
   - Track 2 — Cowork & Automation:
-    - C0 Cowork Concepts: curriculum/c0-cowork-concepts/README.md
-    - C1 Research Automation: curriculum/c1-research-automation/README.md
-    - C2 Office Automation: curriculum/c2-office-automation/README.md
-    - C3 Marketing & Content: curriculum/c3-marketing-content/README.md
-    - C4 Cowork Harness: curriculum/c4-cowork-harness/README.md
+    - C0 Cowork Concepts:
+      - Overview: curriculum/c0-cowork-concepts/README.md
+      - Lab: curriculum/c0-cowork-concepts/lab.md
+      - Quiz: curriculum/c0-cowork-concepts/quiz.md
+      - Reflection: curriculum/c0-cowork-concepts/reflection.md
+    - C1 Research Automation:
+      - Overview: curriculum/c1-research-automation/README.md
+      - Lab: curriculum/c1-research-automation/lab.md
+      - Quiz: curriculum/c1-research-automation/quiz.md
+      - Reflection: curriculum/c1-research-automation/reflection.md
+    - C2 Office Automation:
+      - Overview: curriculum/c2-office-automation/README.md
+      - Lab: curriculum/c2-office-automation/lab.md
+      - Quiz: curriculum/c2-office-automation/quiz.md
+      - Reflection: curriculum/c2-office-automation/reflection.md
+    - C3 Marketing & Content:
+      - Overview: curriculum/c3-marketing-content/README.md
+      - Lab: curriculum/c3-marketing-content/lab.md
+      - Quiz: curriculum/c3-marketing-content/quiz.md
+      - Reflection: curriculum/c3-marketing-content/reflection.md
+    - C4 Cowork Harness:
+      - Overview: curriculum/c4-cowork-harness/README.md
+      - Lab: curriculum/c4-cowork-harness/lab.md
+      - Quiz: curriculum/c4-cowork-harness/quiz.md
+      - Reflection: curriculum/c4-cowork-harness/reflection.md
 
 plugins:
   - search
